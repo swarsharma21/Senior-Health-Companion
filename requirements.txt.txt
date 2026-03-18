@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+twilio
+pandas
+apscheduler
+python-dotenv
+gtts
+openai-whisper

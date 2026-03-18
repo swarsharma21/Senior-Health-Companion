@@ -1,0 +1,11 @@
+user_id,name,age,medicine,reminder_time,missed_doses,avg_delay_minutes,reminders_ignored,adherence_score,risk_level
+U001,Mr Sharma,72,BP Tablet,08:00,4,15,3,65,High
+U002,Mrs Patel,68,Diabetes Tablet,09:00,1,5,0,92,Low
+U003,Mr Singh,75,Heart Medicine,07:30,6,20,4,55,High
+U004,Mrs Iyer,66,Vitamin D,08:30,2,8,1,85,Medium
+U005,Mr Khan,70,BP Tablet,08:00,3,10,2,75,Medium
+U006,Mrs Das,64,Diabetes Tablet,09:00,0,3,0,96,Low
+U007,Mr Mehta,78,Heart Medicine,07:30,7,25,5,45,High
+U008,Mrs Nair,69,Calcium Tablet,08:45,1,6,0,90,Low
+U009,Mr Verma,73,BP Tablet,08:00,5,18,3,60,High
+U010,Mrs Kulkarni,67,Vitamin Tablet,09:15,2,7,1,82,Medium

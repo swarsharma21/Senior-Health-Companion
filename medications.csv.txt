@@ -1,0 +1,11 @@
+med_id,user_id,medicine_name,dosage,reminder_time,frequency,start_date
+M001,U001,BP Tablet,1 tablet,08:00,daily,2026-03-01
+M002,U002,Diabetes Tablet,1 tablet,09:00,daily,2026-03-01
+M003,U003,Heart Medicine,1 tablet,07:30,daily,2026-03-02
+M004,U004,Vitamin D,1 tablet,08:30,daily,2026-03-02
+M005,U005,BP Tablet,1 tablet,08:00,daily,2026-03-03
+M006,U006,Diabetes Tablet,1 tablet,09:00,daily,2026-03-03
+M007,U007,Heart Medicine,1 tablet,07:30,daily,2026-03-04
+M008,U008,Calcium Tablet,1 tablet,08:45,daily,2026-03-04
+M009,U009,BP Tablet,1 tablet,08:00,daily,2026-03-05
+M010,U010,Vitamin Tablet,1 tablet,09:15,daily,2026-03-05
